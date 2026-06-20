@@ -1,0 +1,20 @@
+<svg width="900" height="650" viewBox="0 0 900 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="650"><stop stop-color="#4B5563"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  </defs>
+  <rect width="900" height="650" fill="url(#bg)"/>
+  <path d="M0 430H900V650H0V430Z" fill="#1F2937"/>
+  <path d="M0 115H900" stroke="#8A929E" stroke-width="10" opacity=".16"/>
+  <path d="M0 215H900" stroke="#8A929E" stroke-width="10" opacity=".12"/>
+  <path d="M0 315H900" stroke="#8A929E" stroke-width="10" opacity=".1"/>
+  <rect x="610" y="0" width="98" height="650" fill="#FFC400" opacity=".94"/>
+  <rect x="635" y="0" width="28" height="650" fill="#111827" opacity=".22"/>
+  <g transform="translate(95 150)">
+    <g transform="translate(0 60)"><circle cx="70" cy="70" r="56" fill="#D7A074"/><path d="M12 410C25 245 115 245 128 410" fill="#090F1C"/><rect x="38" y="132" width="64" height="236" rx="48" fill="#090F1C"/><path d="M56 182H100" stroke="#FFC400" stroke-width="12" stroke-linecap="round"/></g>
+    <g transform="translate(145 28)"><circle cx="70" cy="70" r="56" fill="#C98C62"/><path d="M12 442C25 277 115 277 128 442" fill="#090F1C"/><rect x="38" y="132" width="64" height="268" rx="48" fill="#090F1C"/><path d="M56 182H100" stroke="#FFC400" stroke-width="12" stroke-linecap="round"/></g>
+    <g transform="translate(300 0)"><circle cx="70" cy="70" r="56" fill="#D8A27C"/><path d="M12 470C25 305 115 305 128 470" fill="#090F1C"/><rect x="38" y="132" width="64" height="292" rx="48" fill="#090F1C"/><path d="M56 182H100" stroke="#FFC400" stroke-width="12" stroke-linecap="round"/></g>
+    <g transform="translate(455 35)"><circle cx="70" cy="70" r="56" fill="#BD7B57"/><path d="M12 435C25 270 115 270 128 435" fill="#090F1C"/><rect x="38" y="132" width="64" height="260" rx="48" fill="#090F1C"/><path d="M56 182H100" stroke="#FFC400" stroke-width="12" stroke-linecap="round"/></g>
+    <g transform="translate(600 62)"><circle cx="70" cy="70" r="56" fill="#D7A074"/><path d="M12 408C25 243 115 243 128 408" fill="#090F1C"/><rect x="38" y="132" width="64" height="232" rx="48" fill="#090F1C"/><path d="M56 182H100" stroke="#FFC400" stroke-width="12" stroke-linecap="round"/></g>
+  </g>
+  <text x="44" y="596" font-family="Inter, Arial" font-weight="900" font-size="38" fill="#fff">Equipe Duarte Park</text>
+</svg>
